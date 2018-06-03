@@ -1,12 +1,13 @@
 +++
 title = "QuickCites"
 
-date = 2018-06-03T00:00:00
+date =    2018-06-03T00:00:00
 lastmod = 2018-06-03T00:00:00
-draft = false
+draft =   false
 
 tags = ["coding"]
 summary = "Get your publication list with Google Scholar citation counts"
+projects = ["coding"]
 
 [header]
 image = ""

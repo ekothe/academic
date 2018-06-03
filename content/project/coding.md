@@ -13,10 +13,10 @@ image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["coding"]
+tags = [""]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "tags/coding/"
 
 # Does the project detail page use math formatting?
 math = false
