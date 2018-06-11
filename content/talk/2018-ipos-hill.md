@@ -1,23 +1,23 @@
 +++
-date = 2017-01-01T00:00:00  # Schedule page publish date.
+date = 2018-10-29T13:00:00  # Schedule page publish date.
 
-title = "Example Talk"
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
+title = "Rebecca E. Hill, Joanna E. Fardell, Richard J. Cohn, Claire E. Wakefield, Mary-Ellen Brierley, Emily Kothe, Kate Hetherington, and Rebecca Mercieca-Bebber. The Effect of Survivorship Care Plans on Cancer Survivors Patient-Reported Outcomes: A Meta-Analysis and Systematic Review."
+time_start = 2018-10-29T13:00:00
+time_end = 2018-10-29T13:00:00
 abstract = ""
 abstract_short = ""
-event = "Academic Theme Conference"
-event_url = "https://example.org"
-location = "London, United Kingdom"
+event = "20th International Psycho-Oncology Society World Congress of Psycho-Oncology"
+event_url = ""
+location = "Hong Kong"
 
 # Is this a selected talk? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
 #   Simply enter the filename of your project file in `content/project/`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["reviews"]
 
 # Links (optional).
 url_pdf = ""
@@ -34,9 +34,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = ""
+caption = ""
 
 +++
 
-Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code.
