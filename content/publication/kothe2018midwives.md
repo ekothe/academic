@@ -1,5 +1,5 @@
 +++
-title = "student midwives’ intention to deliver weight management interventions: a Theory of Planned Behaviour & Self-Determination Theory approach
+title = "student midwives’ intention to deliver weight management interventions: a Theory of Planned Behaviour & Self-Determination Theory approach"
 date = 2018-09-03T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
