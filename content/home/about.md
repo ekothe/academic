@@ -25,6 +25,6 @@ weight = 5
 
 # Biography
 
-Emily Kothe is a Lecturer in the School of Psychology at Deakin University. She is Co-Director of the Deakin Laboratory for Meta-Analytic Research (DeLMAR) and co-founder of the [Misinformation Lab](http://misinformationlab.com). Her research interests include the mechanisms underlying successful behaviour change and the development and evaluation of theory based interventions. 
+Emily Kothe is a Senior Lecturer in the School of Psychology at Deakin University. She is co-founder of the [Misinformation Lab](http://misinformationlab.com). Her research interests include the mechanisms underlying successful behaviour change and the development and evaluation of theory based interventions. 
 
 She also acts as a consultant in research methods and research synthesis. 
