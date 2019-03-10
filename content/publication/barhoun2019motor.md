@@ -3,7 +3,7 @@ title = "Motor imagery in children with DCD: A systematic and meta-analytic revi
 date = 2019-04-09T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = "[Pamela Barhoun", "Ian Fuelscher", "Emily Jane Kothe", "Jason L.He", "George J. Youssef", "Peter G. Enticott", "Jacqueline Williams", "Christian Hyde"]
+authors = ["Pamela Barhoun", "Ian Fuelscher", "Emily Jane Kothe", "Jason L. He", "George J. Youssef", "Peter G. Enticott", "Jacqueline Williams", "Christian Hyde"]
 
 # Publication type.
 # Legend:
