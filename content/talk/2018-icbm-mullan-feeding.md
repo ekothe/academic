@@ -1,7 +1,7 @@
 +++
 date = 2018-11-11T13:00:00  # Schedule page publish date.
 
-title = Barbara Mullan, Megan McGee, Enrique Mergelsberg, Peter McEvoy, Ben Gardner, Kyra Hamilton, Emily Kothe. Using Theory To Examine The Feeding Practices Of Parents Of Young Children"
+title = "Barbara Mullan, Megan McGee, Enrique Mergelsberg, Peter McEvoy, Ben Gardner, Kyra Hamilton, Emily Kothe. Using Theory To Examine The Feeding Practices Of Parents Of Young Children"
 time_start = 2018-11-11T13:00:00
 time_end = 2018-11-11T13:00:00
 abstract = ""
