@@ -15,12 +15,16 @@ weight = 60
 
 +++
 
+## A practical introduction to meta-analysis for behavioural medicine
+- Christchurch, February 26th 2019
+
 ## Best Practice in Systematic Review
 - Melbourne, February 26th 2018
 - Melbourne, July 2nd 2018
 - Melbourne, October 29th, 2018
 
 ## Conducting Meta-Analysis in R: A Practical Introduction
+- Melbourne, June 10th 2019
 - Melbourne, July 3rd 2018
 - Melbourne, October 29th, 2018
 
